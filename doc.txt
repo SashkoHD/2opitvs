@@ -1,1 +1,2 @@
-This is the klonka branch.
+
+This is the merge conflict resolved branch.
